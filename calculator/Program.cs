@@ -8,5 +8,10 @@ namespace calculator
         {
             Console.WriteLine("Hello World!");
         }
+
+        static int tongHaiSo(int a, int b)
+        {
+            return a + b;
+        }
     }
 }
