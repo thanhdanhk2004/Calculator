@@ -13,5 +13,13 @@ namespace calculator
         {
             return a + b;
         }
+        static int HieuHaiSo(int a, int b)
+        {
+            return a - b;
+        }
+        static int nhanHaiSo(int a, int b)
+        {
+            return a * b;
+        }
     }
 }
